@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "VWZv+BshiGs=",
+  "success": true,
+  "projectFilePath": "D:\\CSharp\\Laboratorio12_EmpresarialesAvanzado\\Laboratorio12_Empresariales\\Laboratorio12_Empresariales\\Laboratorio12_Empresariales.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\esteb\\.nuget\\packages\\hangfire\\1.8.21\\hangfire.1.8.21.nupkg.sha512",
+    "C:\\Users\\esteb\\.nuget\\packages\\hangfire.aspnetcore\\1.8.21\\hangfire.aspnetcore.1.8.21.nupkg.sha512",
+    "C:\\Users\\esteb\\.nuget\\packages\\hangfire.core\\1.8.21\\hangfire.core.1.8.21.nupkg.sha512",
+    "C:\\Users\\esteb\\.nuget\\packages\\hangfire.netcore\\1.8.21\\hangfire.netcore.1.8.21.nupkg.sha512",
+    "C:\\Users\\esteb\\.nuget\\packages\\hangfire.sqlserver\\1.8.21\\hangfire.sqlserver.1.8.21.nupkg.sha512",
+    "C:\\Users\\esteb\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\esteb\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\esteb\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\esteb\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.0.0\\microsoft.extensions.fileproviders.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\esteb\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.0.0\\microsoft.extensions.hosting.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\esteb\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.0\\microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\esteb\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\esteb\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\esteb\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

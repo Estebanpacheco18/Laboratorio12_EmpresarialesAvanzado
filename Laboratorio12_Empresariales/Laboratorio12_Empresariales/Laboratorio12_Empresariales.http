@@ -1,0 +1,6 @@
+@Laboratorio12_Empresariales_HostAddress = http://localhost:5234
+
+GET {{Laboratorio12_Empresariales_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
