@@ -52,6 +52,10 @@
               "target": "Package",
               "version": "[1.8.21, )"
             },
+            "Hangfire.MemoryStorage": {
+              "target": "Package",
+              "version": "[1.8.1.2, )"
+            },
             "Hangfire.SqlServer": {
               "target": "Package",
               "version": "[1.8.21, )"
@@ -59,6 +63,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.6, )"
             }
           },
           "imports": [
